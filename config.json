@@ -1,0 +1,12 @@
+{
+    "arrowColour": "#0080ff",
+    "arrowSize": 6,
+    "arrowOpacity": 255,
+    "fontColour": "#ffffff",
+    "fontDropColour": "#000000",
+    "fontOpacity": 255,
+    "lineColour": "#ffffff",
+    "lineDropColour": "#000000",
+    "lineOpacity": 64,
+    "gridStep": 6
+}
