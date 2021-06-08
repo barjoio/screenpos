@@ -12,7 +12,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/barjoco/utils/colour"
+	"github.com/barjoio/utils/colour"
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/inpututil"
 	"github.com/hajimehoshi/ebiten/v2/text"

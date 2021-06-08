@@ -1,8 +1,8 @@
 dmitri.shuralyov.com/gpu/mtl v0.0.0-20201218220906-28db891af037/go.mod h1:H6x//7gZCb22OMCxBHrMx7a5I7Hp++hsVxbQ4BYO7hU=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
-github.com/barjoco/utils v0.0.0-20201202183825-8ca1e28b3f76 h1:fgRKRLn0ZSVYaZehu417ECd3hKB3OMnSoCPprw6xUig=
-github.com/barjoco/utils v0.0.0-20201202183825-8ca1e28b3f76/go.mod h1:XwiG8AjvT3UxsZTtbhMPnlkAu7FyvB0zXsO9R/1h/nM=
+github.com/barjoio/utils v0.0.0-20201202183825-8ca1e28b3f76 h1:fgRKRLn0ZSVYaZehu417ECd3hKB3OMnSoCPprw6xUig=
+github.com/barjoio/utils v0.0.0-20201202183825-8ca1e28b3f76/go.mod h1:XwiG8AjvT3UxsZTtbhMPnlkAu7FyvB0zXsO9R/1h/nM=
 github.com/coreos/go-systemd v0.0.0-20190321100706-95778dfbb74e/go.mod h1:F5haX7vjVVG0kc13fIWeqUViNPyEJxv/OmvnBo0Yme4=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
